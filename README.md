@@ -1,4 +1,5 @@
 # MQTT_Project
 Bonjour Monsieur,
-Vous trouvez le compte rendu dans votre boite email 
+Vous trouverez le compte rendu dans votre boite email
+Groupe: Oussama MARBOUH ; Hasnaa BOUNOUADER
 Merci 
